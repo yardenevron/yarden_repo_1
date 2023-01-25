@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+		"allowJs": true,
+		"checkJs": true,
+		"noEmit": true,
+		"noImplicitAny": true,
+		"module": "esnext",
+		"target": "esnext",
+		"skipLibCheck": true,
+		"moduleResolution": "node16",
+		"baseUrl": "."
+	},
+	"include": ["**/*.js"]
+}
